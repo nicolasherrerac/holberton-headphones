@@ -34,7 +34,3 @@ Here the final result:
 ### [7. Let's animate items ](./101-index.html)
 
 ### [8. And SASS??](./100-styles.css)
-
-## Author
-
-- **Gareth Brickman** - [garethbrickman](https:///github.com/garethbrickman)
